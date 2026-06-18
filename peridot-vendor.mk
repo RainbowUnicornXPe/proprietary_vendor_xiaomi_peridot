@@ -1670,7 +1670,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.dpmservice@1.0 \
     vendor.qti.hardware.dpmservice@1.1 \
     vendor.qti.hardware.dsp@1.0 \
-    vendor.qti.hardware.fm@1.0 \
     vendor.qti.hardware.mwqemadapter@1.0 \
     vendor.qti.hardware.mwqemadapteraidlservice-V1-ndk \
     vendor.qti.hardware.pal@1.0-impl \
