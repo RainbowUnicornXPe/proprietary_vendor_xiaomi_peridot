@@ -78,4 +78,3 @@ recvmsg: 1
 
 # added for get gid
 getgid: 1
-lseek: 1
