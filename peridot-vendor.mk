@@ -2297,7 +2297,6 @@ PRODUCT_PACKAGES += \
     android.hardware.security.keymint-service-qti.xml \
     atfwd-saidl.xml \
     bttpi-saidl.xml \
-    c2_manifest_vendor.xml \
     c2_manifest_vendor_audio.xml \
     dataconnection-saidl.xml \
     datafactoryservice-saidl.xml \
